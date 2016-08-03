@@ -1,23 +1,18 @@
 ---
 title: "R Classes at Stanford"
 author: "cengel {sul-cidr}"
-date: "March 18, 2016"
+date: "August 3, 2016"
 ---
 
 From [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
 
-Adacemic Year 2015-2016
+Adacemic Year 2016-2017
 
 This list is probably not complete. Please submit a pull request or email me with what I have missed.
 
-#### ANTHRO 98C/298C: Digital Methods in Anthropology (ANTHRO 298C)
-The course provides an introduction to a broad range of digital tools and techniques for anthropological research. It is geared towards those interested in exploring such methodologies for their research and wanting to add hands-on experience with state-of-the-art digital tools to their skill set. Students will learn to work with some of the most common tools used to collect and manage digital data, and to perform various types of analysis and visualization.nUndergraduate students register for 5 Units, Graduate students can register for 5 or 3 units.
-Terms: Spr | Units: 3-5 | Grading: Letter or Credit/No Credit
-Instructors: Engel, C. (PI)
-
 #### BIO 108/HUMBIO 85A: Essential Statistics for Human Biology
 Introduction to statistical concepts and methods that are essential to the study of questions in biology, environment, health, epidemiology and related areas. The course will teach and use the computer language R. Topics include distributions, probabilities, likelihood, linear models; illustrations will be based on recent research.
-Terms: Spr | Units: 4 | Grading: Letter (ABCD/NP)
+Terms: Spr | Units: 4 | UG Reqs: WAY-AQR | Grading: Letter (ABCD/NP)
 Instructors: Tuljapurkar, S. (PI)
 
 #### BIO 141/STATS 141: Biostatistics
@@ -25,23 +20,19 @@ Introductory statistical methods for biological data: describing data (numerical
 Terms: Aut | Units: 3-5 | UG Reqs: GER:DB-Math, WAY-AQR | Grading: Letter or Credit/No Credit
 Instructors: Mukherjee, R. (PI)
 
-#### BIO 202: Ecological Statistics
-Intended for graduate students (and advanced undergraduates in special circumstances with consent of instructors) in biology and related environmental sciences, this course is an introduction to statistical methods for ecological data analysis, using the programming language R. The course will have lectures, discussions, and independent research projects using the students¿ own data or simulated or publicly available data.
-Terms: alternate years, given next year | Units: 3 | Grading: Letter (ABCD/NP)
-
-#### BIOS 205: Introduction to R
-Autumn quarter enrollment limited to ADVANCE students; instructor consent required for enrollment. Topics include: basics of R (widely used, open-source programming and data analysis environment) programming language and data structures, reading/writing files, graphics tools for figure generation, basic statistical and regression operations, survey of relevant R library packages. Interactive format combining lectures and computer lab. For course and enrollment information, see http://bios205.stanford.edu.
-Terms: Aut, Win, Spr | Units: 1 | Grading: Medical Satisfactory/No Credit
-Instructors: Bagley, S. (PI)
-
 #### [BIOS 221/STATS 366: Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/index.html)
 Application based course in nonparametric statistics. Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages. Prerequisite: Minimal familiarity with computers. Instructor consent. Location: Li Ka Shing Center, room 120.
-Terms: not given this year | Units: 3 | Grading: Letter or Credit/No Credit
+Terms: Sum | Units: 3 | Grading: Letter or Credit/No Credit
+
+#### CHPR 202: FUNDAMENTALS OF R
+This course is a practicum in which students will use the R programming language to analyze datasets by application of classical statistical methods. No prior experience with R (or other programming languages) is required, but a familiarity with basic descriptive and inferential statistics is assumed. Class sessions will include some lecture content but will emphasize coding demonstrations by the instructor and hands-on coding by each student on their own computers. Students will practice using R with open-source and simulated datasets. The primary goal of the course is to equip students with a fundamental understanding of R's capabilities, experience using R with practice datasets, and the ability to extend their facility with R as their needs dictate.
+Terms: Aut | Units: 1 | Grading: Medical Satisfactory/No Credit
+Instructors: Bowden, C. (PI)
 
 #### [CHPR 290/EDUC 260B/STATS 266: Advanced Statistical Methods for Observational Studies](http://rogosateaching.com/somgen290/)
 Design principles and statistical methods for observational studies. Topics include: matching methods, sensitivity analysis, instrumental variables, graphical models, marginal structural models. 3 unit registration requires a small project and presentation. Computing is in R. Pre-requisites: HRP 261 and 262 or STAT 209 ( HRP 239), or equivalent. 
 Terms: Spr | Units: 2-3 | Grading: Medical Option (Med-Ltr-CR/NC)
-Instructors: Baiocchi, M. (PI) ; Rogosa, D. (PI)
+Instructors: Baiocchi, M. (PI); Rogosa, D. (PI)
 
 #### CME 195/STATS 195: Introduction to R
 This short course runs for the first four weeks of the quarter and is offered in fall and spring. It is recommended for students who want to use R in statistics, science, or engineering courses and for students who want to learn the basics of R programming. The goal of the short course is to familiarize students with R's tools for scientific computing. Lectures will be interactive with a focus on learning by example, and assignments will be application-driven. No prior programming experience is needed. Topics covered include basic data structures, File I/O, graphs, control structures, etc, and some useful packages in R.
@@ -51,31 +42,28 @@ Instructors: Michael, H. (PI) ; Suo, X. (PI)
 #### CME 250: Introduction to Machine Learning
 A Short course presenting the principles behind when, why, and how to apply modern machine learning algorithms. We will discuss a framework for reasoning about when to apply various machine learning techniques, emphasizing questions of over-fitting/under-fitting, regularization, interpretability, supervised/unsupervised methods, and handling of missing data. The principles behind various algorithms--the why and how of using them--will be discussed, while some mathematical detail underlying the algorithms--including proofs--will not be discussed. Unsupervised machine learning algorithms presented will include k-means clustering, principal component analysis (PCA), and independent component analysis (ICA). Supervised machine learning algorithms presented will include support vector machines (SVM), classification and regression trees (CART), boosting, bagging, and random forests. Imputation, the lasso, and cross-validation concepts will also be covered. The R programming language will be used for examples, though students need not have prior exposure to R. Prerequisite: undergraduate-level linear algebra and statistics; basic programming experience (R/Matlab/Python).
 Terms: Aut, Win, Spr | Units: 1 | Grading: Satisfactory/No Credit
-Instructors: Bergen, K. (PI) ; Ioannidis, A. (PI)
+Instructors: Maher, G. (PI)
+
+#### CME 250A: Machine Learning on Big Data
+A short course presenting the application of machine learning methods to large datasets.Topics include: brief review of the common issues of machine learning, such as, memorizing/overfitting vs learning, test/train splits, feature engineering, domain knowledge, fast/simple/dumb learners vs slow/complex/smart learners; moving your model from your laptop into a production environment using Python (scikit) or R on small data (laptop sized) at first; building math clusters using the open source H2O product to tackle Big Data, and finally to some model building on terabyte sized datasets. Prereqresites: basic knowledge of statistics, matrix algebra, and unix-like operating systems; basic file and text manipulation skills with unix tools: pipes, cut, paste, grep, awk, sed, sort, zip; programming skill at the level of CME211 or CS106A.
+Terms: Spr | Units: 1 | Grading: Satisfactory/No Credit
+Instructors: Gerritsen, M. (PI)
 
 #### CS 102: Big Data: Tools and Techniques, Discoveries and Pitfalls
 Aimed primarily at students who may not major in CS but want to learn about big data and apply that knowledge in their areas of study. Many of the world's biggest discoveries and decisions in science, technology, business, medicine, politics, and society as a whole, are now being made on the basis of analyzing massive data sets, but it is surprisingly easy to come to false conclusions from data analysis alone, and privacy of data connected to individuals can be a major concern. This course provides a broad introduction to big data: historical context and case studies; privacy issues; data analysis techniques including databases, data mining, and machine learning; sampling and statistical significance; data analysis tools including spreadsheets, SQL, Python, R; data visualization techniques and tools. Tools and techniques are hands-on but at a cursory level, providing a basis for future exploration and application. Prerequisites: high school AP computer science, CS106A, or other equivalent programming experience; comfort with statistics and spreadsheets helpful but not required.
-Terms: Spr | Units: 3-4 | Grading: Letter or Credit/No Credit
+Terms: Spr | Units: 3-4 | UG Reqs: WAY-AQR | Grading: Letter or Credit/No Credit
+Instructors: Widom, J. (PI); Chan, E. (TA); Das Sarma, A. (TA); Gozali, I. (TA)
 
 #### EARTHSYS 211/ESS 211: Fundamentals of Modeling
 Simulation models are a powerful tool for environmental research, if used properly. The major concepts and techniques for building and evaluating models. Topics include model calibration, model selection, uncertainty and sensitivity analysis, and Monte Carlo and bootstrap methods. Emphasis is on gaining hands-on experience using the R programming language. Prerequisite: Basic knowledge of statistics.
 Terms: Aut | Units: 3-5 | Grading: Letter or Credit/No Credit
 Instructors: Lobell, D. (PI)
 
-#### [EDUC 401C: Data Analysis Examples Using R](http://rogosateaching.com/ed401/)
-We will do basic and intermediate level data analysis examples, likenthose that students will have seen in their courses, in R. Examplesninclude: descriptive statistics and plots, analysis of variance,ncorrelation and regression, categorical variables, multilevel data.
-Terms: Aut | Units: 1 | Grading: Satisfactory/No Credit
-Instructors: Rogosa, D. (PI)
-
 #### [EDUC 401D/STATS 196A: Multilevel Modeling Using R](http://rogosateaching.com/stat196/)
 Multilevel data analysis examples using R. Topics include: two-level nested data, growth curve modeling, generalized linear models for counts and categorical data, nonlinear models, three-level analyses.
 Terms: Spr | Units: 1 | Grading: Satisfactory/No Credit
 Instructors: Rogosa, D. (PI)
 
-#### ESS 260/STATS 360: Advanced Statistical Methods for Earth System Analysis
-Introduction for graduate students to important issues in data analysis relevant to earth system studies. Emphasis on methodology, concepts and implementation (in R), rather than formal proofs. Likely topics include the bootstrap, non-parametric methods, regression in the presence of spatial and temporal correlation, extreme value analysis, time-series analysis, high-dimensional regressions and change-point models. Topics subject to change each year. Prerequisites: STATS 110 or equivalent.
-Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
-Instructors: Rajaratnam, B. (PI)
 
 #### HRP 219: Evaluating Technologies for Diagnosis, Prediction and Screening
 New technologies designed to monitor and improve health outcomes are constantly emerging, but most fail in the clinic and in the marketplace because relatively few are supported by reliable, reproducible evidence that they produce a health benefit. This course covers the designs and methods that should be used to evaluate technologies to diagnose patients, predict prognosis or other health events, or screen for disease. These technologies can include devices, statistical prediction rules, biomarkers, gene panels, algorithms, imaging, or any information used to predict a future or a previously unknown health state. Specific topics to be covered include the phases of test development, how to frame a proper evaluation question, measures of test accuracy, Bayes theorem, internal and external validation, prediction evaluation criteria, decision analysis, net-utility, ROC curves, c-statistics, net reclassification index, decision curves and reporting standards. Examples of technology assessments and original methods papers are used. Software used in the course is R or Stata. Open to graduate students with a solid understanding of introductory biostatistics, epidemiologic and clinical research study design, and of medical conditions and related technologies required. Basic understanding of Stata or R is also required. Undergraduates may enroll with consent of instructor.
@@ -87,19 +75,20 @@ This course aims to provide a firm grounding in the foundations of probability a
 Terms: Aut, Win | Units: 3 | UG Reqs: WAY-AQR | Grading: Letter or Credit/No Credit
 Instructors: Sainani, K. (PI) ; Wallach, J. (PI)
 
-#### IPS 205: Introductory Statistics for Policy
-Introduction to key elements of probability and statistical analysis, focusing on international and public policy relevant applications. Topics will include basic probability, discrete and continuous random variables, exploratory data analysis, hypothesis testing, and elements of mathematical statistics. Lectures will include both theoretical and practical components, and students will be introduced to R statistical programming and LaTeX.
-Terms: Aut | Units: 5 | Grading: Letter (ABCD/NP)
-Instructors: Kapoor, R. (PI) ; Sher, N. (PI)
+#### LAW 7505: Law and Economics of the Death Penalty Seminar
+(Formerly Law 397) This seminar will examine the legal and policy aspects of a capital punishment regime, with a focus on three primary issues: 1) the Supreme Court's forty-year effort to define what cases can permissibly receive the death penalty and the procedures under which it must be imposed; 2) the arguments for and against the death penalty, with a major focus on whether the death penalty deters, is administered in a racially biased way, or is otherwise implemented in an arbitrary and capricious manner; and 3) what the U.S. and international status of the death penalty is today and what the prospects are for the future in the wake of Justice Breyer's invitation in June 2015 to the Court to rule on the constitutionality of capital punishment in light of the existing empirical evidence. Although the readings on deterrence and racial discrimination will entail some substantial statistical analysis, a background in statistics, though helpful, will not be required. Special Instructions: After the term begins, students can transfer from section (01) into section (02), which meets the R requirement, with consent of the instructor. Students taking the course for R credit can take the course for either 2 or 3 units, depending on the paper length. Elements used in grading seminar: Written assignments and final paper or approved research with the professor.
+Terms: Aut | Units: 2-3 | Grading: Law Honors/Pass/Restrd Cr/Fail
+Instructors: Donohue, J. (PI)
 
-#### MGTECON 335: Statistics and Causality
-This is a course on methods for causal inference in statistics, with a particular focus on the use of randomized experiments and observational studies for making decisions under uncertainty. We will discuss some of the statistical methods, implementing them in R. No prior knowledge of R is required. We will discuss a number of detailed applications.nn
-Units: 4 | Grading: GSB Letter Graded
+#### MS&E 226: "Small" Data
+This course is about understanding "small data": these are datasets that allow interaction, visualization, exploration, and analysis on a local machine. The material provides an introduction to applied data analysis, with an emphasis on providing a conceptual framework for thinking about data from both statistical and machine learning perspectives. Topics will be drawn from the following list, depending on time constraints and class interest: approaches to data analysis: statistics (frequentist, Bayesian) and machine learning; binary classification; regression; bootstrapping; causal inference and experimental design; multiple hypothesis testing. Class lectures will be supplemented by data-driven problem sets and a project. Prerequisites: CME 100 or MATH 51; 120, 220 or STATS 116; experience with R at the level of CME/STATS 195 or equivalent.
+Terms: Aut | Units: 3 | Grading: Letter (ABCD/NP)
+Instructors: Johari, R. (PI)
 
 #### MS&E 231/SOC 278: Introduction to Computational Social Science
 With a vast amount of data now collected on our online and offline actions -- from what we buy, to where we travel, to who we interact with -- we have an unprecedented opportunity to study complex social systems. This opportunity, however, comes with scientific, engineering, and ethical challenges. In this hands-on course, we develop ideas from computer science and statistics to address problems in sociology, economics, political science, and beyond. We cover techniques for collecting and parsing data, methods for large-scale machine learning, and principles for effectively communicating results. To see how these techniques are applied in practice, we discuss recent research findings in a variety of areas. Prerequisites: introductory course in applied statistics, and experience coding in R, Python, or another high-level language.
 Terms: Aut | Units: 3 | Grading: Letter or Credit/No Credit
-Instructors: Goel, S. (PI) ; Arrieta Ibarra, I. (TA)
+Instructors: Goel, S. (PI)
 
 #### MS&E 246: Financial Risk Analytics
 Practical introduction to financial risk analytics, focusing on data-driven modeling, computation, and statistical estimation of credit and market risks. Case studies based on real data will be emphasized. Topics include mortgage risk, asset-backed securities, commercial lending, consumer delinquencies, crowd funding, transactions analytics, derivatives risk. Tools from machine learning and statistics will be developed. Data sources will be discussed. Intended to enable students to design and implement risk analytics tools in practice. Prerequisite: 245A or similar, some background in probability and statistics, working knowledge of R, Matlab, or similar computational/statistical package.
@@ -108,7 +97,7 @@ Instructors: Giesecke, K. (PI)
 
 #### MS&E 330/SOC 279: Law, Order & Algorithms
 Data and algorithms are rapidly transforming law enforcement and criminal justice, including how police officers are deployed, how discrimination is detected, and how sentencing, probation, and parole terms are set. Modern computational and statistical methods offer the promise of greater efficiency, equity, and transparency, but their use also raises complex legal, social, and ethical questions. In this course, we analyze recent court decisions, discuss methods from machine learning and game theory, and examine the often subtle relationship between law, public policy and statistics. Students work in interdisciplinary teams to explore these issues in an empirical or investigative project of their choice. Prerequisite: An introductory course in applied statistics (e.g. MS&E 125). Recommended: experience programming in R or Python.
-Terms: Win | Units: 3 | Grading: Letter (ABCD/NP)
+Terms: Spr | Units: 3 | Grading: Letter (ABCD/NP)
 Instructors: Goel, S. (PI)
 
 #### MS&E 448: Big Financial Data and Algorithmic Trading
@@ -116,39 +105,42 @@ Project course emphasizing the connection between data, models, and reality. Vas
 Terms: Spr | Units: 3 | Grading: Letter (ABCD/NP)
 Instructors: Borland, L. (PI)
 
+#### OIT 274: Data and Decisions - Base (Lab-based Pilot)
+Data and Decisions is a first-year MBA course in statistics and regression analysis. The base D&D lab-based pilot is a new version of the course that combines extensive online materials with a more lab-based classroom approach. Traditional lecture content will be learned through online videos, simulations, and exercises, while time spent in the classroom will be discussions or computer lab sessions. Content covered includes basic probability, sampling techniques, hypothesis testing, t-tests, linear regression, and prediction models. The group regression project is a key component of the course, and all students will learn the software R.
+Units: 4 | Grading: GSB Letter Graded
+Instructors: Benkard, L. (PI)
+
+#### OIT 276: Data and Decisions - Accelerated (Lab-based Pilot)
+Data and Decisions is a first-year MBA course in statistics and regression analysis. The accelerated D&D lab-based pilot is a new version of the course that combines extensive online materials with a more lab-based classroom approach. Traditional lecture content will be learned through online videos, simulations, and exercises, while time spent in the classroom will be discussions or computer lab sessions. Content covered includes sampling techniques, hypothesis testing, t-tests, linear regression, and prediction models. The group regression project is a key component of the course, and all students will learn the software R. The accelerated course is designed for students with strong quantitative backgrounds. Students taking this course need to be comfortable with mathematical notation, algebra, and some calculus. Students without quantitative backgrounds should consider enrolling in the base version of the course.
+Units: 4 | Grading: GSB Letter Graded
+Instructors: O'Hair, A. (PI)
+
 #### OIT 367: Business Intelligence from Big Data
 The objective of this course is to analyze real-world situations where significant competitive advantage can be obtained through large-scale data analysis, with special attention to what can be done with the data and where the potential pitfalls lie. Students will be challenged to develop business-relevant questions and then solve for them by manipulating large data sets. Problems from advertising, eCommerce, finance, healthcare, marketing, and revenue management are presented. Students learn to apply software (such as R and SQL) to data sets to create knowledge that will inform decisions. The course covers fundamentals of statistical modeling, machine learning, and data-driven decision making. Students are expected to layer these topics over an existing facility with mathematical notation, algebra, calculus, probability, and basic statistics.
-Units: 3 | Grading: GSB Letter Graded
+Terms: Win | Units: 3 | Grading: GSB Letter Graded
 Instructors: Bayati, M. (PI)
 
-#### POLISCI 344: Politics and Geography
-The role of geography in topics in political economy, including development, political representation, voting, redistribution, regional autonomy movements, fiscal competition, and federalism.
-Terms: Aut | Units: 3-5 | Grading: Letter or Credit/No Credit
-Instructors: Rodden, J. (PI) ; Eubank, N. (TA)
-
-#### PSYCH 196A: Advanced Psychology Research Methods
-This course is designed for advanced psychology students familiar with basic research methods (Honors and Coterms) who wish to build on and develop more sophisticated, independent research skills. Topics will include research design and evaluation, introductory statistics and basic programming in R, logistics of running a study at Stanford (including online studies with Qualtrics and Amazon¿s Mechanical Turk), interpreting and writing up the results of statistical analyses, giving an academic presentation, and more. Students will gain hands on, pragmatic skills in each of these areas through individual and group projects and presentations, problem sets, and instructor and peer feedback. By the end of the course, students will have the knowledge and skills they need to develop and execute their own independent research project (e.g., their honors or coterm thesis project).
-Terms: not given this year | Units: 3 | Grading: Letter or Credit/No Credit
+#### STATS 101: DATA SCIENCE 101
+This course will provide a hands-on introduction to statistics and data science. nStudents will engage with the fundamental ideas in inferential and computational thinking. Each week, we will explore a core topic comprising three lectures and two labs (a module), in which students will manipulate real-world data and learn about statistical and computational tools. Students will engage in statistical computing and visualization with current data analytic software (Jupyter, R). The objectives of this course are to have students (1) be able to connect data to underlying phenomena and to think critically about conclusions drawn from data analysis, and (2) be knowledgeable aboutnprogramming abstractions so that they can later design their ownncomputational inferential procedures. Open to undergraduates and graduates.
+Terms: Aut, Spr | Units: 5 | Grading: Letter or Credit/No Credit
+Instructors: Duchi, J. (PI); Sabatti, C. (PI); Taylor, J. (PI); Tibshirani, R. (PI); Xia, L. (PI)
 
 #### STATS 191: Introduction to Applied Statistics
 Statistical tools for modern data analysis. Topics include regression and prediction, elements of the analysis of variance, bootstrap, and cross-validation. Emphasis is on conceptual rather than theoretical understanding. Applications to social/biological sciences. Student assignments/projects require use of the software package R. Recommended: 60, 110, or 141.
-Terms: Win | Units: 3-4 | UG Reqs: GER:DB-Math | Grading: Letter or Credit/No Credit
-Instructors: Walther, G. (PI)
+Terms: Win | Units: 3-4 | UG Reqs: GER:DB-Math, WAY-AQR | Grading: Letter or Credit/No Credit
+Instructors: Taylor, J. (PI)
 
 #### STATS 216: Introduction to Statistical Learning
 Overview of supervised learning, with a focus on regression and classification methods. Syllabus includes: linear and polynomial regression, logistic regression and linear discriminant analysis;cross-validation and the bootstrap, model selection and regularization methods (ridge and lasso); nonlinear models, splines and generalized additive models; tree-based methods, random forests and boosting; support-vector machines; Some unsupervised learning: principal components and clustering (k-means and hierarchical). Computing is done in R, through tutorial sessions and homework assignments. This math-light course is offered via video segments (MOOC style), and in-class problem solving sessions. Prereqs: Introductory courses in statistics or probability (e.g., Stats 60), linear algebra (e.g., Math 51), and computer programming (e.g., CS 105).
-Terms: Win, Sum | Units: 3 | Grading: Letter or Credit/No Credit
-Instructors: Mackey, L. (PI)
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Tibshirani, R. (PI)
 
-#### STATS 300: Advanced Topics in Statistics
-Topic: Exploratory Multivariate Data Analysis. Describing and visualizing data with principal component analysis (PCA) for continuous data, correspondence analysis (CA) for contingency tables, multiple correspondence analysis (MCA) for categorical data, factorial analysis for mixed data (FAMD) for both continuous and categorical data, and multiple factor analysis (MFA) for data structured into groups of variables. Studying and visualization of the correlation between groups of variables with the RV coefficient. Performing PCA with missing values, matrix completion of continuous and categorical data with principal components. Examples from sensory analysis, public health, genetics. All the analysis will be performed with R.
-Terms: Sum | Units: 2-3 | Repeatable for credit | Grading: Letter or Credit/No Credit
-
-#### STATS 341: Applied Multivariate Statistics
-Theory, computational aspects, and practice of a variety of important multivariate statistical tools for data analysis. Topics include classicalnmultivariate Gaussian and undirected graphical models, graphical displays. PCA, SVD and generalizations including canonical correlation analysis, linear discriminant analysis, correspondence analysis, with focus on recent variants. Factor analysis and independent component analysis. Multidimensional scalingnand its variants (e.g. Isomap, spectral clustering). Students are expected to program in R. Prerequisite: STATS 305 or equivalent.
-Terms: not given this year | Units: 3 | Grading: Letter or Credit/No Credit
+#### STATS 290: Paradigms for Computing with Data
+Advanced programming and computing techniques to support projects in data analysis and related research. For Statistics graduate students and others whose research involves data analysis and development of associated computational software. Prerequisites: Programming experience including familiarity with R; computing at least at the level of CS 106; statistics at the level of STATS 110 or 141.
+Terms: Win | Units: 3 | Grading: Letter or Credit/No Credit
+Instructors: Chambers, J. (PI); Narasimhan, B. (PI); Choi, Y. (TA); Guan, L. (TA); Patterson, E. (TA)
 
 #### [THINK 3: Breaking Codes and Finding Patterns](http://web.stanford.edu/class/think3/index.html)
 Why are humans drawn to making and breaking codes? To what extent is finding patterns both an art and a science? Cryptography has been used for millennia for secure communications, and its counterpart, cryptanalysis, or code breaking, has been around for just slightly less time. In this course we will explore the history of cryptography and cryptanalysis including the Enigma code, Navajo windtalkers, early computer science and the invention of modern Bayesian inference. We will try our own hand at breaking codes using some basic statistical tools for which no prior experience is necessary. Finally, we will consider the topic of patterns more generally, raising such questions as why we impute meaning to patterns, such as Biblical codes, and why we assume a complexity within a pattern when it's not there, such as the coincidence of birthdays in a group.
-Terms: Spr | Units: 4 | UG Reqs: THINK, WAY-AQR, WAY-FR | Grading: Letter (ABCD/NP)
-Instructors: Furrow, R. (PI) ;  Holmes, S. (PI) ; Lyons, A. (PI) ; Mohanty, P. (PI) ; Park, M. (PI) ; Powroznik, K. (PI)
+Terms: Aut | Units: 4 | UG Reqs: THINK, WAY-AQR, WAY-FR | Grading: Letter (ABCD/NP)
+Instructors: Betre, K. (PI) ; Furrow, R. (PI) ;  Holmes, S. (PI) ; Mohanty, P. (PI) ; Stickles, E. (PI)
