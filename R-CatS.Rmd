@@ -1,7 +1,7 @@
 ---
 title: "R Classes at Stanford"
 author: "cengel {sul-cidr}"
-date: "August 3, 2016"
+date: "Jan 6, 2017"
 ---
 
 From [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
@@ -9,6 +9,12 @@ From [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
 Adacemic Year 2016-2017
 
 This list is probably not complete. Please submit a pull request or email me with what I have missed.
+
+#### ANTHRO 131B: Six degrees:Introduction to social network analysis for Anthropologists
+
+What are social networks and how do they influence patterns we observe in the world around us? Although the rise of social media and big data has made social network analysis (SNA) a hot topic in recent years, scholars in anthropology and sociology have been analyzing social networks and interaction patterns - and related debates over structure and agency - since the early days of these disciplines.nThis course will introduce upper-level undergraduates to the theory and methods used in social network analysis. Coursework will involve problem sets, student presentations, and weekly participation. The main output of the course however will be a student-designed project analyzing social relationships in a community (virtual, historical, or physical-world) of interest. There are no prerequisites, but familiarity with R would be helpful. Lectures on R will be provided early in the course, so if you¿re interested in thinking creatively about social relationships, don't let your lack of programming experience be a deterrent!
+Terms: Win | Units: 5 | Grading: Letter or Credit/No Credit
+Instructors: Brown, M. (PI)
 
 #### BIO 108/HUMBIO 85A: Essential Statistics for Human Biology
 Introduction to statistical concepts and methods that are essential to the study of questions in biology, environment, health, epidemiology and related areas. The course will teach and use the computer language R. Topics include distributions, probabilities, likelihood, linear models; illustrations will be based on recent research.
@@ -64,7 +70,7 @@ Multilevel data analysis examples using R. Topics include: two-level nested data
 Terms: Spr | Units: 1 | Grading: Satisfactory/No Credit
 Instructors: Rogosa, D. (PI)
 
-### ENGR 150: Data Challenge Lab
+#### ENGR 150: Data Challenge Lab
 In this lab, students develop the practical skills of data science by solving a series of increasingly difficult, real problems. Skills developed include: data manipulation, data visualization, exploratory data analysis, and basic modeling. The data challenges each student undertakes are based upon their current skills. Students receive one-on-one coaching and see how expert practitioners solve the same challenges. Limited enrollment; application required. See http://datalab.stanford.edu for more information.
 Terms: Win, Spr | Units: 1-5 | Grading: Letter (ABCD/NP)
 Instructors: Behrman, W. (PI) 
@@ -124,7 +130,7 @@ The objective of this course is to analyze real-world situations where significa
 Terms: Win | Units: 3 | Grading: GSB Letter Graded
 Instructors: Bayati, M. (PI)
 
-### POLISCI 150B/POLISCI 355B: Machine Learning for Social Scientists
+#### POLISCI 150B/POLISCI 355B: Machine Learning for Social Scientists
 Machine learning---the use of algorithms to classify, predict, sort, learn and discover from data---has exploded in use across academic fields, industry, government, and non-profit. This course provides an introduction to machine learning for social scientists. We will introduce state of the art machine learning tools, show how to use those tools in the programming language R, and demonstrate why a social science focus is essential to effectively apply machine learning techniques. Applications of the methods will include forecasting social phenomena, the analysis of social media data, and the automatic analysis of text data. Political Science 150A or an equivalent is required. 
 Terms: Win | Units: 5 | UG Reqs: WAY-AQR | Grading: Letter or Credit/No Credit
 Instructors:  Grimmer, J. (PI)
