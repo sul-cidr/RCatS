@@ -1,7 +1,7 @@
 ---
 title: "R Classes at Stanford"
 author: "cengel {sul-cidr}"
-date: "May 17, 2018"
+date: "Aug 22, 2018"
 ---
 
 From [https://explorecourses.stanford.edu](https://explorecourses.stanford.edu)
@@ -19,11 +19,6 @@ Instructors: Zhu, X. (PI)
 Intended for graduate students (and advanced undergraduates in special circumstances with consent of instructors) in biology and related environmental sciences, this course is an introduction to statistical methods for ecological data analysis, using the programming language R. The course will have lectures, discussions, and independent research projects using the students¿ own data or simulated or publicly available data.
 Terms: Aut, alternate years, not given next year | Units: 3 | Grading: Letter (ABCD/NP)
 Instructors: Coyle, J. (PI) ; Fukami, T. (PI)
-
-#### BIOS 205: Introduction to R for Data Analysis
-Autumn quarter enrollment limited to ADVANCE students; instructor consent required for enrollment. Topics include: basics of R (widely used, open-source programming and data analysis environment) programming language and data structures, reading/writing files, graphics tools for figure generation, basic statistical and regression operations, survey of relevant R library packages. Interactive format combining lectures and computer lab. For course and enrollment information, see https://web.stanford.edu/~sbagley2/bios205/
-Terms: Aut, Win, Spr | Units: 1 | Grading: Medical Satisfactory/No Credit
-Instructors: Bagley, S. (PI)
 
 #### [BIOS 221/STATS 366: Modern Statistics for Modern Biology](http://web.stanford.edu/class/bios221/index.html)
 Application based course in nonparametric statistics. Modern toolbox of visualization and statistical methods for the analysis of data, examples drawn from immunology, microbiology, cancer research and ecology. Methods covered include multivariate methods (PCA and extensions), sparse representations (trees, networks, contingency tables) as well as nonparametric testing (Bootstrap, permutation and Monte Carlo methods). Hands on, use R and cover many Bioconductor packages. Prerequisite: Minimal familiarity with computers. Instructor consent. Location: Li Ka Shing Center, room 120.
